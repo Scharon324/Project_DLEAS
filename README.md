@@ -1,1 +1,1 @@
-# Project_DLEAS
+DLEAS is a system designed to manage and track student placements in training courses. It records and stores detailed student information in a database and includes functionality for logging registrations and printing student details. This system streamlines the process of maintaining and accessing student records.
